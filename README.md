@@ -1,4 +1,4 @@
-# Car-price-prediction-using-Anns
+# Car price prediction using Anns
 
 - The use of ANNs for Regression Tasks!
 - Model is preprocessed b/w 0 to 1 using minmaxscaler
